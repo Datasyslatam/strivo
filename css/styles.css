@@ -1,0 +1,19 @@
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16;
+    font-weight: 800;
+    color: #ff01ba;
+}
+
+.titulo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    color: aliceblue;
+}
+
+.efecto{
+    background: #474bff;
+    background: -webkit-linear-gradient(32deg, #474bff 0%, #bc48ff 100%);
+    background: linear-gradient(32deg, #474bff 0%, #bc48ff 100%);
+}
